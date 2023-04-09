@@ -1,0 +1,15 @@
+/Users/mariasilvia/Documents/GitHub/moogle/bin/Debug/net6.0/moogle
+/Users/mariasilvia/Documents/GitHub/moogle/bin/Debug/net6.0/moogle.deps.json
+/Users/mariasilvia/Documents/GitHub/moogle/bin/Debug/net6.0/moogle.runtimeconfig.json
+/Users/mariasilvia/Documents/GitHub/moogle/bin/Debug/net6.0/moogle.dll
+/Users/mariasilvia/Documents/GitHub/moogle/bin/Debug/net6.0/moogle.pdb
+/Users/mariasilvia/Documents/GitHub/moogle/obj/Debug/net6.0/moogle.csproj.AssemblyReference.cache
+/Users/mariasilvia/Documents/GitHub/moogle/obj/Debug/net6.0/moogle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariasilvia/Documents/GitHub/moogle/obj/Debug/net6.0/moogle.AssemblyInfoInputs.cache
+/Users/mariasilvia/Documents/GitHub/moogle/obj/Debug/net6.0/moogle.AssemblyInfo.cs
+/Users/mariasilvia/Documents/GitHub/moogle/obj/Debug/net6.0/moogle.csproj.CoreCompileInputs.cache
+/Users/mariasilvia/Documents/GitHub/moogle/obj/Debug/net6.0/moogle.dll
+/Users/mariasilvia/Documents/GitHub/moogle/obj/Debug/net6.0/refint/moogle.dll
+/Users/mariasilvia/Documents/GitHub/moogle/obj/Debug/net6.0/moogle.pdb
+/Users/mariasilvia/Documents/GitHub/moogle/obj/Debug/net6.0/moogle.genruntimeconfig.cache
+/Users/mariasilvia/Documents/GitHub/moogle/obj/Debug/net6.0/ref/moogle.dll

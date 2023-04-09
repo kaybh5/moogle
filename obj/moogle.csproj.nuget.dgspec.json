@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/dnielpy/Documentos/Code/Trainning/FriendsCode/Kayla/moogle/moogle.csproj": {}
+    "/Users/mariasilvia/Documents/GitHub/moogle/moogle.csproj": {}
   },
   "projects": {
-    "/home/dnielpy/Documentos/Code/Trainning/FriendsCode/Kayla/moogle/moogle.csproj": {
+    "/Users/mariasilvia/Documents/GitHub/moogle/moogle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/dnielpy/Documentos/Code/Trainning/FriendsCode/Kayla/moogle/moogle.csproj",
+        "projectUniqueName": "/Users/mariasilvia/Documents/GitHub/moogle/moogle.csproj",
         "projectName": "moogle",
-        "projectPath": "/home/dnielpy/Documentos/Code/Trainning/FriendsCode/Kayla/moogle/moogle.csproj",
-        "packagesPath": "/home/dnielpy/.nuget/packages/",
-        "outputPath": "/home/dnielpy/Documentos/Code/Trainning/FriendsCode/Kayla/moogle/obj/",
+        "projectPath": "/Users/mariasilvia/Documents/GitHub/moogle/moogle.csproj",
+        "packagesPath": "/Users/mariasilvia/.nuget/packages/",
+        "outputPath": "/Users/mariasilvia/Documents/GitHub/moogle/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/dnielpy/.nuget/NuGet/NuGet.Config"
+          "/Users/mariasilvia/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -43,7 +43,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -52,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.113/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
         }
       }
     }
