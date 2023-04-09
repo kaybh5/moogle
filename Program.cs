@@ -1,3 +1,3 @@
 ﻿using System;
 
-System.Console.WriteLine("hola kayla, llevo 2 horas intentando que esto funcione :)");
+System.Console.WriteLine("Hola kayla llevo 2 horas intentando que esto funcione :)");
